@@ -1,0 +1,20 @@
+# 📄 PDF to Markdown Converter
+
+Este projeto converte automaticamente todos os arquivos `.pdf` da pasta `pdf/` em arquivos `.md` dentro da pasta `markdown/`, usando um único script Python que **instala tudo sozinho e roda direto**.
+
+Você não precisa instalar nada globalmente — tudo funciona localmente com Python 3.
+
+---
+
+## 🚀 Como usar
+
+Clone o repositório, entre na pasta e execute o script:
+
+```bash
+git clone https://github.com/daviddanielbp/pdf-to-markdown.git
+
+cd pdf-to-markdown
+
+**Use este comando para converter:
+
+python3 pdf_para_md.py
